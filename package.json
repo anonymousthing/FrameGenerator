@@ -1,0 +1,15 @@
+{
+  "name": "shinkai-generator",
+  "version": "1.0.0",
+  "description": "ShinkaiGenerator",
+  "main": "index.js",
+  "author": {
+    "name": "anonymousthing"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "stream-buffers": "^3.0.1",
+    "lwip": "https://github.com/Pajk/lwip#development"
+  }
+}

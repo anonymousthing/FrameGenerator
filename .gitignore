@@ -1,3 +1,7 @@
+files/*
+otherfiles/
+
+
 # Logs
 logs
 *.log
